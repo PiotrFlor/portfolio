@@ -3,6 +3,7 @@
 * Jira
 * Confluence
 * TestRail
+* TestLink
 # Kursy
 * [Akademia Testowania](www.testuj.pl)
 * [Testowanie produktów cyfrowych (testowanie oprogramowania)](https://www.udemy.com/course/testowanie-produktow-cyfrowych/)
