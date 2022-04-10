@@ -15,4 +15,5 @@
 * [TestowanieOprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 # Blogi, strony tematyczne
 * [testuj.pl](www.testuj.pl)
+* [pwicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 # Webinary, Meetupy
