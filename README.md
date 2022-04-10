@@ -5,7 +5,7 @@
 * TestRail
 * TestLink
 # Kursy
-* [Akademia Testowania](www.testuj.pl)
+* [Akademia Testowania](https://testuj.pl/)
 * [Testowanie produktów cyfrowych (testowanie oprogramowania)](https://www.udemy.com/course/testowanie-produktow-cyfrowych/)
 # Techniczne książki
 * Zawód Tester - Radosław Smilgin
